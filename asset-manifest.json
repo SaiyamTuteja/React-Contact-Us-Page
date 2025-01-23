@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Contact-Us-Page/static/css/main.3ec67719.css",
+    "main.js": "/React-Contact-Us-Page/static/js/main.5a29dfc9.js",
+    "static/js/156.321d4533.chunk.js": "/React-Contact-Us-Page/static/js/156.321d4533.chunk.js",
+    "index.html": "/React-Contact-Us-Page/index.html",
+    "main.3ec67719.css.map": "/React-Contact-Us-Page/static/css/main.3ec67719.css.map",
+    "main.5a29dfc9.js.map": "/React-Contact-Us-Page/static/js/main.5a29dfc9.js.map",
+    "156.321d4533.chunk.js.map": "/React-Contact-Us-Page/static/js/156.321d4533.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ec67719.css",
+    "static/js/main.5a29dfc9.js"
+  ]
+}
