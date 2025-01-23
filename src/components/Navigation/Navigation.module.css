@@ -1,0 +1,35 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 16px;
+  height: 72px;
+  background-color: white;
+}
+
+.navigation .logo img {
+  max-width: 72px;
+  height: auto;
+  display: block;
+}
+
+.navigation ul {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 24px;
+  font-weight: 500;
+  margin: 0;
+  padding: 0;
+}
+
+.navigation ul li {
+  cursor: pointer;
+  font-size: 16px;
+  color: #333;
+  transition: color 0.2s ease;
+}
+
+.navigation ul li:hover {
+  color: var(--red);
+}
